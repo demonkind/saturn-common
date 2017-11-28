@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/trunk/!svn/ver/3855/saturn-archetype-project/saturn-jar/saturn-common/src/main/java/com/huifu/saturn/common/constants/constants
+END
+SaturnCommonConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/trunk/!svn/ver/3855/saturn-archetype-project/saturn-jar/saturn-common/src/main/java/com/huifu/saturn/common/constants/constants/SaturnCommonConstants.java
+END
+SaturnLoggerConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/trunk/!svn/ver/2778/saturn-archetype-project/saturn-jar/saturn-common/src/main/java/com/huifu/saturn/common/constants/constants/SaturnLoggerConstants.java
+END
+GlobalConfigKeyConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/trunk/!svn/ver/3184/saturn-archetype-project/saturn-jar/saturn-common/src/main/java/com/huifu/saturn/common/constants/constants/GlobalConfigKeyConstants.java
+END

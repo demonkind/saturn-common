@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/trunk/!svn/ver/1472/saturn-archetype-project/saturn-jar/saturn-common/src/main/java/com/huifu/saturn/common/utils
+END
+SaturnIDCardUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/trunk/!svn/ver/861/saturn-archetype-project/saturn-jar/saturn-common/src/main/java/com/huifu/saturn/common/utils/SaturnIDCardUtils.java
+END
+UniqID.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/trunk/!svn/ver/861/saturn-archetype-project/saturn-jar/saturn-common/src/main/java/com/huifu/saturn/common/utils/UniqID.java
+END
+DateUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/trunk/!svn/ver/861/saturn-archetype-project/saturn-jar/saturn-common/src/main/java/com/huifu/saturn/common/utils/DateUtil.java
+END
+SaturnLoggerUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/trunk/!svn/ver/861/saturn-archetype-project/saturn-jar/saturn-common/src/main/java/com/huifu/saturn/common/utils/SaturnLoggerUtils.java
+END
+UniqRandom.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/trunk/!svn/ver/1472/saturn-archetype-project/saturn-jar/saturn-common/src/main/java/com/huifu/saturn/common/utils/UniqRandom.java
+END

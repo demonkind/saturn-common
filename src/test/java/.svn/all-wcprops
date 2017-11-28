@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/trunk/!svn/ver/847/saturn-archetype-project/saturn-jar/saturn-common/src/test/java
+END
+KeyGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/trunk/!svn/ver/429/saturn-archetype-project/saturn-jar/saturn-common/src/test/java/KeyGeneratorTest.java
+END
+Md5signatureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/trunk/!svn/ver/429/saturn-archetype-project/saturn-jar/saturn-common/src/test/java/Md5signatureTest.java
+END
+Md5EncryptTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/trunk/!svn/ver/429/saturn-archetype-project/saturn-jar/saturn-common/src/test/java/Md5EncryptTest.java
+END
+CodecTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/trunk/!svn/ver/847/saturn-archetype-project/saturn-jar/saturn-common/src/test/java/CodecTest.java
+END

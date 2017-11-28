@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/trunk/!svn/ver/858/saturn-archetype-project/saturn-jar/saturn-common/src/main/java/com/huifu/saturn/common/lang/signature
+END
+Signature.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/trunk/!svn/ver/858/saturn-archetype-project/saturn-jar/saturn-common/src/main/java/com/huifu/saturn/common/lang/signature/Signature.java
+END
+MD5Signature.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/trunk/!svn/ver/858/saturn-archetype-project/saturn-jar/saturn-common/src/main/java/com/huifu/saturn/common/lang/signature/MD5Signature.java
+END
+BaseSignature.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/trunk/!svn/ver/858/saturn-archetype-project/saturn-jar/saturn-common/src/main/java/com/huifu/saturn/common/lang/signature/BaseSignature.java
+END

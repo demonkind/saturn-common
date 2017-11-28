@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/trunk/!svn/ver/4686/saturn-archetype-project/saturn-jar/saturn-common/src/main/java/com/huifu/saturn/common/constants/code/bizCode
+END
+BDeptType.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/trunk/!svn/ver/2814/saturn-archetype-project/saturn-jar/saturn-common/src/main/java/com/huifu/saturn/common/constants/code/bizCode/BDeptType.java
+END
+CRAccountType.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/trunk/!svn/ver/2815/saturn-archetype-project/saturn-jar/saturn-common/src/main/java/com/huifu/saturn/common/constants/code/bizCode/CRAccountType.java
+END
+SaturnCertCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/trunk/!svn/ver/854/saturn-archetype-project/saturn-jar/saturn-common/src/main/java/com/huifu/saturn/common/constants/code/bizCode/SaturnCertCode.java
+END
+DTAccountType.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/trunk/!svn/ver/2816/saturn-archetype-project/saturn-jar/saturn-common/src/main/java/com/huifu/saturn/common/constants/code/bizCode/DTAccountType.java
+END
+SaturnSexCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/trunk/!svn/ver/854/saturn-archetype-project/saturn-jar/saturn-common/src/main/java/com/huifu/saturn/common/constants/code/bizCode/SaturnSexCode.java
+END
+TransType.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/trunk/!svn/ver/4686/saturn-archetype-project/saturn-jar/saturn-common/src/main/java/com/huifu/saturn/common/constants/code/bizCode/TransType.java
+END
+TransferBizType.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/trunk/!svn/ver/2817/saturn-archetype-project/saturn-jar/saturn-common/src/main/java/com/huifu/saturn/common/constants/code/bizCode/TransferBizType.java
+END
+WithdrawalBizType.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/trunk/!svn/ver/4051/saturn-archetype-project/saturn-jar/saturn-common/src/main/java/com/huifu/saturn/common/constants/code/bizCode/WithdrawalBizType.java
+END

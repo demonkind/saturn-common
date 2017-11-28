@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/trunk/!svn/ver/3020/saturn-archetype-project/saturn-jar/saturn-common/src/main/java/com/huifu/saturn/common/log
+END
+LogInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/trunk/!svn/ver/2714/saturn-archetype-project/saturn-jar/saturn-common/src/main/java/com/huifu/saturn/common/log/LogInterceptor.java
+END
+MybatisCommonInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/trunk/!svn/ver/3020/saturn-archetype-project/saturn-jar/saturn-common/src/main/java/com/huifu/saturn/common/log/MybatisCommonInterceptor.java
+END

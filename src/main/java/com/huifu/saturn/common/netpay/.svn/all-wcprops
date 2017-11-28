@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/trunk/!svn/ver/3141/saturn-archetype-project/saturn-jar/saturn-common/src/main/java/com/huifu/saturn/common/netpay
+END
+FeeCaculateTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/trunk/!svn/ver/1518/saturn-archetype-project/saturn-jar/saturn-common/src/main/java/com/huifu/saturn/common/netpay/FeeCaculateTool.java
+END
+SecureBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/trunk/!svn/ver/1994/saturn-archetype-project/saturn-jar/saturn-common/src/main/java/com/huifu/saturn/common/netpay/SecureBase.java
+END
+DATA.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/trunk/!svn/ver/1518/saturn-archetype-project/saturn-jar/saturn-common/src/main/java/com/huifu/saturn/common/netpay/DATA.java
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/trunk/!svn/ver/2714/saturn-archetype-project/saturn-jar/saturn-common/src/main/java/com/huifu/saturn/common/netpay/readme.txt
+END
+Interpret.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/trunk/!svn/ver/3020/saturn-archetype-project/saturn-jar/saturn-common/src/main/java/com/huifu/saturn/common/netpay/Interpret.java
+END
+SendToFnm.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/trunk/!svn/ver/3141/saturn-archetype-project/saturn-jar/saturn-common/src/main/java/com/huifu/saturn/common/netpay/SendToFnm.java
+END

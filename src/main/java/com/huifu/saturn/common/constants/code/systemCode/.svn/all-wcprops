@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/trunk/!svn/ver/3138/saturn-archetype-project/saturn-jar/saturn-common/src/main/java/com/huifu/saturn/common/constants/code/systemCode
+END
+ChinaPNRSystemCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/trunk/!svn/ver/856/saturn-archetype-project/saturn-jar/saturn-common/src/main/java/com/huifu/saturn/common/constants/code/systemCode/ChinaPNRSystemCode.java
+END
+ChinaPNRDomainCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/trunk/!svn/ver/856/saturn-archetype-project/saturn-jar/saturn-common/src/main/java/com/huifu/saturn/common/constants/code/systemCode/ChinaPNRDomainCode.java
+END
+ChinaPNRSubSystemCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/trunk/!svn/ver/3138/saturn-archetype-project/saturn-jar/saturn-common/src/main/java/com/huifu/saturn/common/constants/code/systemCode/ChinaPNRSubSystemCode.java
+END
