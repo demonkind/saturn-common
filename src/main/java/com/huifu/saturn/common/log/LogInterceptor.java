@@ -21,7 +21,7 @@ public class LogInterceptor {
     
     public void before(JoinPoint joinpoint){
         Object [] arr=joinpoint.getArgs();//此方法返回的是一个数组，数组中包括request以及ActionCofig等类对象
-        logger.info("调用类 :"+joinpoint.getSignature());
+        logger.info("调用类 : "+joinpoint.getSignature());
         for(Object o:arr){
             if(o!=null){
                 logger.info(o.toString());
